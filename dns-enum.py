@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/bin/python
 #*************************************************
 #Author:hack_with_ethics
 #created:31-1-2023
-#last modified=31-1-2023
+#last modified:1-2-2023
 #*************************************************
 
 import dns.resolver
