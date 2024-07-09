@@ -9,6 +9,8 @@ THIS IS HACK-WITH-ETHICS
 
 # [+]Requirements
 1.socket
+
+
 2.dnspython
 try pip install dnspython
 [+]usage:
