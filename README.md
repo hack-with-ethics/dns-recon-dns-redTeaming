@@ -5,9 +5,9 @@ Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and 
 Hello hacker
 THIS IS HACK-WITH-ETHICS
 
-DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
+# DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
 
-[+]Requirements
+# [+]Requirements
 1.socket
 2.dnspython
 try pip install dnspython
