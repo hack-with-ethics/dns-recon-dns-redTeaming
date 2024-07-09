@@ -10,13 +10,18 @@ THIS IS HACK-WITH-ETHICS
 # [+]Requirements
 1.socket
 
-
 2.dnspython
+
 try pip install dnspython
+
 [+]usage:
+
 python dns-enum.py 
+
 1.select the options
+
 2.enter the domain name to enumerate (AAA,ZONE TRANSFER,TXT,IPV6,IPV4........) informatiom
+
 Mainly script is focused on the dns
 
 THANK YOU HACKERS 
