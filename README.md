@@ -8,11 +8,11 @@ THIS IS HACK-WITH-ETHICS
 # DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
 
 # [+]Requirements
-1.socket
+  1.socket
 
-2.dnspython
+  2.dnspython
 
-try pip install dnspython
+  try pip install dnspython
 
 [+]usage:
 
