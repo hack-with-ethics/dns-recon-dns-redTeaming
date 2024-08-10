@@ -6,7 +6,8 @@
     THIS IS HACK-WITH-ETHICS
 
 # DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
-![dns](https://github.com/user-attachments/assets/6f85d864-ab20-4643-a019-9bd7ef689bbf)
+
+![images](https://github.com/user-attachments/assets/1213257b-8574-4834-acbc-10d0cd011f23)
 
 
 # Requirements
