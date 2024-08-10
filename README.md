@@ -8,6 +8,7 @@
 # DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
 ![dns](https://github.com/user-attachments/assets/6f85d864-ab20-4643-a019-9bd7ef689bbf)
 
+
 # Requirements
     1.socket
   
