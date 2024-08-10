@@ -7,7 +7,7 @@
 
 # DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
 
-# [+]Requirements
+# Requirements
     1.socket
   
     2.dnspython
