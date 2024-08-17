@@ -1,32 +1,25 @@
 # dns-recon-dns-redTeaming
-    This is a Python script that provides the ability to perform: 
-    Check all NS Records for Zone Transfers. 
-    Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and TXT). Perform common SRV Record Enumeration. Top Level Domain (TLD) Expansion.
-    Hello hacker
-    THIS IS HACK-WITH-ETHICS
+PowerFull Python Script for Dns , This Runs using dns.resolver which Does both passive and Active Recon on dns
 
 # DNS - DOMAIN NAME INFORMATION ENUMNERATION SCRIPT IN PYTHON 
 
 ![images](https://github.com/user-attachments/assets/1213257b-8574-4834-acbc-10d0cd011f23)
 
 
-# Requirements
-    1.socket
-  
-    2.dnspython
+# init
+    pip install -r requirements.txt
 
-  
+# usage
+    [ * ] usage : Python DnsRecon.py <Domain> output.txt
+        <Domain> - Specify the  Domain
+        <output.txt> - output file
+![Screenshot 2024-08-17 152543](https://github.com/user-attachments/assets/e01152d2-fce3-489e-ba0b-e8bea0d1e848)
 
-    [+]usage:
+# output
 
-    python dns-enum.py 
-    
-    1.select the options
-  
-    2.enter the domain name to enumerate (AAA,ZONE TRANSFER,TXT,IPV6,IPV4........) informatiom
+![Screenshot 2024-08-17 152659](https://github.com/user-attachments/assets/7f49f8ff-9ee8-4e99-9f17-d54bf1c2954d)
 
-Mainly script is focused on the dns
 
-THANK YOU HACKERS 
-FIND YOU SOON IN NEXT TOOL
+
+
 HAPPY HACKING ........................@SIGNING OFF MRWHITEHAT
